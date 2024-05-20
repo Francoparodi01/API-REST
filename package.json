@@ -23,6 +23,7 @@
     "is-extglob": "^2.1.1",
     "is-glob": "^4.0.3",
     "is-number": "^7.0.0",
+    "lodash": "^4.17.21",
     "minimatch": "^3.1.2",
     "mongoose": "^8.4.0",
     "ms": "^2.1.2",
@@ -47,6 +48,7 @@
     "@types/cookie-parser": "^1.4.7",
     "@types/cors": "^2.8.17",
     "@types/express": "^4.17.21",
+    "@types/lodash": "^4.17.4",
     "express": "^4.19.2",
     "nodemon": "^3.1.0",
     "ts-node": "^10.9.2"
